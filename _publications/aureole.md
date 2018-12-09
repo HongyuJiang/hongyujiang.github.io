@@ -13,4 +13,5 @@ citation: 'Jiang H , Tang K , Zhao W , et al. Aureole: a multi-perspective visua
 [Download paper here](http://www.swustvis.cn/media/filer_public/filer_public/ff/de/ffdefdf1-0b16-4ef9-9b71-6531d1d1b382/aureole-jov-jiang.pdf)
 
 Recommended citation: 
+
 Jiang H , Tang K , Zhao W , et al. Aureole: a multi-perspective visual analytics approach for green cellular networks[J]. <i>Journal of Visualization</i>, 2017, 21(12):1-10.

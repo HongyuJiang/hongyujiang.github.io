@@ -13,4 +13,5 @@ citation: '吴亚东, 蒋宏宇, 赵思蕊, et al. 网络安全数据3D可视化
 [Download paper here](http://www.swustvis.cn/media/filer_public/filer_public/ff/de/ffdefdf1-0b16-4ef9-9b71-6531d1d1b382/aureole-jov-jiang.pdf)
 
 Recommended citation: 
+
 吴亚东, 蒋宏宇, 赵思蕊, et al. 网络安全数据3D可视化方法[J]. <i>电子科技大学学报</i>, 2015, 44(4):594-598.

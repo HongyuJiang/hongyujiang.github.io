@@ -13,4 +13,5 @@ citation: 'Pei W, Wu Y, Wang S, et al. BVis: urban traffic visual analysis based
 [Download paper here](http://www.swustvis.cn/media/filer_public/filer_public/3d/56/3d5626ba-cbe8-4941-a932-ab84cc06f6ba/jovi-d-17-00102.pdf)
 
 Recommended citation: 
+
 Pei W, Wu Y, Wang S, et al. BVis: urban traffic visual analysis based on bus sparse trajectories[J]. <i>Journal of Visualization</i>, 2018(2):1-11.

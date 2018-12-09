@@ -13,4 +13,5 @@ citation: 'Wu Y, Wang S, Wang H, et al. A total variation-based hierarchical rad
 [Download paper here](http://www.swustvis.cn/media/filer_public/filer_public/04/02/0402f0f3-b4a7-4a03-956e-4585c7341f5e/a_total_variation-based_hierarchical_radial_video_visualization_method.pdf)
 
 Recommended citation: 
+
 Wu Y, Wang S, Wang H, et al. A total variation-based hierarchical radial video visualization method[J]. <i>Journal of Visualization</i>, 2015, 18(2):255-267.
