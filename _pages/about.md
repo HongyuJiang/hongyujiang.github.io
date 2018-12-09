@@ -14,16 +14,16 @@ I received my bachelor degree from School of Computer Science, [Southwest Univer
 **Education**
 ---
 
-1. 2017.9-2018.2, EECS, Peking University, China, Visiting Student
-2. 2016.9-2019.6, Southwest University of Science and Technology, China, Master in Computer Technology     
-3. 2012.9-2016.6, Southwest University of Science and Technology, China, Bachelors in Information Security
+**2017.9-2018.2**: EECS, Peking University, China, Visiting Student
+**2016.9-2019.6**: Southwest University of Science and Technology, China, Master in Computer Technology     
+**2012.9-2016.6**: Southwest University of Science and Technology, China, Bachelors in Information Security
 
 **Research Interest**
 ---
-1. Urban Computing Visualization
-2. Visual Analysis and Interaction Design
+- Urban Computing Visualization
+- Visual Analysis and Interaction Design
 
 **Work Interest**
 ---
-1. Visual Art Design
-2. Information Graph Design
+- Visual Art Design
+- Information Graph Design
