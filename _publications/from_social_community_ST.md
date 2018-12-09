@@ -2,7 +2,7 @@
 title: "From Social Community to Spatio-temporal Information: A New Method for Mobile Data Exploration"
 collection: publications
 permalink: /publication/from_social_community_ST
-excerpt: 'Mobile data has various properties which contained social and spatio-temporal information of human activities. To support security department for crime fighting we encountered several challenges in the way of exploring complex mobile data, in order to solve those challenges this work has built a vivid method for mobile data analysis from social and spatio-temporal aspects, moreover, a prototype system was built to support person and community’s pattern analysis for security department recognize abnormal person, for the sake of support quickly targets searching, community detection was used to obtain the high-level information and the detail-information is presented by a series visualization models, users are able to accomplish their investigation tasks with interact with visual analysis system. Finally, we demonstrated the superiority of our method by the result that came from the analyzing of the call records which provided by an anonymous communications operator company.'
+excerpt: "<img src='/images/mobilevis_teaser.png'>"
 date: 2017-05-22
 venue: 'Journal of Visual Languages and Computing'
 paperurl: 'http://www.sciencedirect.com/science/article/pii/S1045926X16301495'
