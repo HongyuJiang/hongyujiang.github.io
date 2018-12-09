@@ -2,7 +2,7 @@
 title: "面向用户行为理解的移动通讯数据可视分析"
 collection: publications
 permalink: /publication/human_activity
-excerpt: '<img src='/images/aureole_teaser.png'>'
+excerpt: "<img src='/images/aureole_teaser.png'>"
 
 date: 2018-01-1
 venue: '《浙江大学学报 (理学版)》/ Journal of Zhe Jiang University (Sci. Edition)'
