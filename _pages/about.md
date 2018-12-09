@@ -13,12 +13,17 @@ I received my bachelor degree from School of Computer Science, [Southwest Univer
 
 **Education**
 ---
-1. Ph.D. Candidate of Computer Software and Theory
-2.  Peking University, 09/2015~07/2020 (expected)
-3. Bachelor of Computer Science and Technology
-4.  Northwestern Polytechnical University, 09/2011~07/2015
+
+1. 2017.9-2018.2, EECS, Peking University, China, Visiting Student
+2. 2016.9-2019.6, Southwest University of Science and Technology, China, Master in Computer Technology     
+3. 2012.9-2016.6, Southwest University of Science and Technology, China, Bachelors in Information Security
 
 **Research Interest**
 ---
-1. Automated Program Repair : automatically finding and resolving defects that prevent correct operation of software.
-2. Programming Transformation : more concretely focusing on API adaptation and program migration.
+1. Urban Computing Visualization
+2. Visual Analysis and Interaction Design
+
+**Work Interest**
+---
+1. Visual Art Design
+2. Information Graph Design
