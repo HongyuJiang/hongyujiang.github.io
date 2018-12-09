@@ -1,7 +1,7 @@
 ---
 title: "Aureole: a multi-perspective visual analytics approach for green cellular networks"
 collection: publications
-permalink: /publication/aurole
+permalink: /publication/aureole
 excerpt: '<img src='/images/aureole_teaser.png'>'
 
 date: 2018-06-1
