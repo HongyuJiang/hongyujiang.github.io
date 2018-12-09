@@ -11,49 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* B.S. in Southwest University of Science and Technology, Information Security, 2012 - 2016
+* Visiting Student, EECS, Peking University, China, 2017.9 - 2018.2
+* M.S. in Southwest University of Science and Technology, Computer Technology, 2016 - 2019 (expected)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Visual Analysis Programming via D3, Plot.ly, Vega and etc.
+* Data Processing via Python and others automation tool.
+* CG Programming via Unity 3D and WebGL.
+* VUE.js, React.js Web Development Framework with Node.js.
 
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-cv.html %} 
   {% endfor %}</ul>
   
-Talks
+Services
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* A volunteer in Information Technology and Real Economy Forum, CCF, 2018, Mianyang, China.
+* A reviewer in Chinavis 2018 Data Challenge, Shanghai, China.
+* A volunteer in Chinavis 2017, Hunan, China.
+* A volunteer in Seminar in Civil-Military Integration 2016, Mianyang, China.
+
+Ladership
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2017-2018, Mianyang, China, SWUST, Co-Chair of CCF student chapter. 
+* 2016-2017, Mianyang, China, SWUST, Chair of ACM student chapter.
+* 2013-2015, Mianyang, China, Microsoft, Microsoft student partner.

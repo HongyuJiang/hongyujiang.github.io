@@ -14,11 +14,11 @@ I received my bachelor degree from School of Computer Science, [Southwest Univer
 **Education**
 ---
 
-**2017.9-2018.2**: EECS, Peking University, China, Visiting Student
+- **2017.9-2018.2**: EECS, Peking University, China, Visiting Student
 
-**2016.9-2019.6**: Southwest University of Science and Technology, China, Master in Computer Technology  
+- **2016.9-2019.6**: Southwest University of Science and Technology, China, Master in Computer Technology  
   
-**2012.9-2016.6**: Southwest University of Science and Technology, China, Bachelors in Information Security
+- **2012.9-2016.6**: Southwest University of Science and Technology, China, Bachelors in Information Security
 
 
 **Research Interest**
