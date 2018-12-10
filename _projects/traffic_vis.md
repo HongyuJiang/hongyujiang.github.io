@@ -1,7 +1,7 @@
 ---
 title: "Visualization builder via editable blueprint"
 permalink: /projects/openvis
-excerpt: "<img src='/images/traffic_vis.png'>"
+excerpt: "Road network's condition assessment and monitoring. <img src='/images/traffic_vis.png' width='600px'>"
 ---
 
 excerpt: "<img src='/images/traffic_vis.png'>"
