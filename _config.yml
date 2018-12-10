@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hongyu(Syou) Jiang | 蒋宏宇"
+title                    : "Hongyu Jiang | 蔣宏宇"
 title_separator          : "-"
 name                     : &name "Hongyu Jiang"
 description              : &description "personal description"
@@ -170,16 +170,13 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  projects:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
+  gallery:
     output: true
     permalink: /:collection/:path/
 
@@ -204,10 +201,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _Project
+  # _projects
   - scope:
       path: ""
-      type: project
+      type: projects
     values:
       layout: single
       author_profile: true
@@ -226,6 +223,15 @@ defaults:
   - scope:
       path: ""
       type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _gallery
+  - scope:
+      path: ""
+      type: gallery
     values:
       layout: single
       author_profile: true
