@@ -183,10 +183,10 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # _posters
   - scope:
       path: ""
-      type: posts
+      type: posters
     values:
       layout: single
       author_profile: true
