@@ -1,5 +1,5 @@
 ---
-title: "Visualization builder via editable blueprint"
+title: "Sina Weibo Visual Explorer"
 permalink: /projects/openvis
 excerpt: "Exploring the features in tourist areas for who getting ready for a travel. <img src='/images/weibo_vis.png' width='600px'>"
 ---
