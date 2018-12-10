@@ -5,4 +5,4 @@ excerpt: "A visualization dashborad for present statistical information in large
 ---
 
 The project detail check this [link](https://github.com/HongyuJiang/changhong_healthcare)
-excerpt: "<img src='/images/changhong_teaser.png'>"
+<img src='/images/changhong_teaser.png'>

@@ -5,4 +5,4 @@ excerpt: "Make visualization is easier to build with more nature interactions. <
 ---
 
 The project detail check this [link](https://github.com/HongyuJiang/openvis_swust)
-excerpt: "<img src='/images/openvis_demo.png'>"
+<img src='/images/openvis_demo.gif'>
