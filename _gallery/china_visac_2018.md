@@ -2,17 +2,9 @@
 title: "Health Care"
 type: "Changhong"
 permalink: /gallery/china_visac_2018
-date: 2014-01-01
-excerpt: "<img src='/images/china_visac_2018.png'>"
+date: 2018-07-23
+excerpt: "This work describe the populations ditribution and public transportation network runing condition in Mianyang, China</br><img src='/images/china_visac_2018.png'>"
+location: "Shanghai, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This work is published in Chinavis 2018.

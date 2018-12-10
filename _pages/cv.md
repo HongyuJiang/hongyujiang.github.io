@@ -40,3 +40,14 @@ Ladership
 * 2017-2018, Mianyang, China, SWUST, Co-Chair of CCF student chapter. 
 * 2016-2017, Mianyang, China, SWUST, Chair of ACM student chapter.
 * 2013-2015, Mianyang, China, Microsoft, Microsoft student partner.
+
+Awards
+======
+* Excellent Award, China VISAC(Visualization Art Contest), Chinavis, 2018.
+* Third Award, Data Challenge of Visualization, Chinavis 2017, 2017.
+* CCF Outstanding Undergraduate Award, China Computer Federation,  2016.
+* Third Award, China-U.S. Young Maker Competition 2016, MOE of the P.R.C, 2016.
+* Excellent Award, Data Challenge of Visualization, Chinavis 2016, 2016.
+* Second Award, Data Challenge of Visualization, Chinavis 2015, 2015.
+* ACM Chengdu Chapter Outstanding Undergraduate Award, ACM Chengdu Chapter, 2014.
+* Grand Academic Scholarships. 2016-2018.
