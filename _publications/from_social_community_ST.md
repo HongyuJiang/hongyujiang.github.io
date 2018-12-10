@@ -3,7 +3,7 @@ title: "From Social Community to Spatio-temporal Information: A New Method for M
 collection: publications
 permalink: /publication/from_social_community_ST
 excerpt: "<img src='/images/mobilevis_teaser.png' width='500px'>"
-date: 2017-05-22
+date: '2017-05-22'
 venue: 'Journal of Visual Languages and Computing'
 paperurl: 'http://www.sciencedirect.com/science/article/pii/S1045926X16301495'
 citation: 'Jiang H , Tang K , Zhao W , et al. Aureole: a multi-perspective visual analytics approach for green cellular networks[J]. Journal of Visualization, 2017, 21(12):1-10.'

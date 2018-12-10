@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/aureole
 excerpt: "<img src='/images/aureole_teaser.png' width='500px'>"
 
-date: 2018-06-1
+date: '2018-06-1'
 venue: 'Journal of Visualization '
 paperurl: 'https://link.springer.com/article/10.1007/s12650-017-0467-x'
 citation: 'Jiang H , Tang K , Zhao W , et al. Aureole: a multi-perspective visual analytics approach for green cellular networks[J]. Journal of Visualization, 2017, 21(12):1-10.'

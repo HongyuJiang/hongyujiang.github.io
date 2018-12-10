@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/bvis
 excerpt: "<img src='/images/bvis_teaser.png' width='500px'>"
 
-date: 2018-04-1
+date: '2018-04-1'
 venue: 'Journal of Visualization'
 paperurl: 'https://link.springer.com/article/10.1007/s12650-018-0489-z'
 citation: 'Pei W, Wu Y, Wang S, et al. BVis: urban traffic visual analysis based on bus sparse trajectories[J]. Journal of Visualization, 2018(2):1-11.'
