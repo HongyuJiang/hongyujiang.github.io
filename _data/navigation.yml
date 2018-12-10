@@ -6,11 +6,8 @@ main:
   - title: "Projects"
     url: /projects/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Gallery"
+    url: /gallery/
         
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
