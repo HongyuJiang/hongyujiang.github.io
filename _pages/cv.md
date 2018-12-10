@@ -20,7 +20,7 @@ Skills
 * Visual Analysis Programming via D3, Plot.ly, Vega and etc.
 * Data Processing via Python and others automation tool.
 * CG Programming via Unity 3D and WebGL.
-* VUE.js, React.js Web Development Framework with Node.js.
+* VUE.js, React.js, Web Development Framework with Node.js.
 
 Publications
 ======

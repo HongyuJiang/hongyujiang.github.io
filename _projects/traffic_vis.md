@@ -4,5 +4,4 @@ permalink: /projects/openvis
 excerpt: "<img src='/images/traffic_vis.png'>"
 ---
 
-The project detail check this [link](https://github.com/HongyuJiang/openvis_swust)
-excerpt: "<img src='/images/openvis_demo.png'>"
+excerpt: "<img src='/images/traffic_vis.png'>"
