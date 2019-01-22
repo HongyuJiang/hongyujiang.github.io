@@ -3,7 +3,6 @@ title: "Knotted-line: A Visual Explorer for Uncertainty in Transportation System
 collection: publications
 permalink: /publication/knotted_line
 excerpt: "<img src='/images/knotted_line_teaser.png' width='500px'>"
-
 date: '2019-01-01'
 venue: 'Journal of Visual Language and Computing'
 paperurl: 'https://www.sciencedirect.com/journal/journal-of-visual-languages-and-computing/articles-in-press'
