@@ -3,8 +3,8 @@ title: "The Eye of Cellulars"
 type: "Private Design"
 permalink: /gallery/green_eyes
 date: 2018-07-23
-excerpt: "This work uses visual analysis technology to optimize the base station network to achieve the goal of green base station network.
-
+excerpt: "This work uses visual analysis technology to optimize the base station network to achieve the goal of green base station network. 
+<\br>
 <img src='/images/green_eye.png' width='500px'>"
 location: "Mianyang, China"
 ---
