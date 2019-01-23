@@ -1,5 +1,5 @@
 ---
-title: "The rhythm of Mianyang"
+title: "The Rhythm of Mianyang"
 type: "Chinavis Visac 2017"
 permalink: /gallery/china_visac_2018
 date: 2018-07-23
