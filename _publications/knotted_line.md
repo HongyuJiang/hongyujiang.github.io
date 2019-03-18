@@ -3,9 +3,9 @@ title: "Knotted-line: A Visual Explorer for Uncertainty in Transportation System
 collection: publications
 permalink: /publication/knotted_line
 excerpt: "<img src='/images/knotted_line_teaser.png' width='500px'>"
-date: '2019-01-01'
-venue: 'Journal of Visual Language and Computing'
-paperurl: 'https://www.sciencedirect.com/journal/journal-of-visual-languages-and-computing/articles-in-press'
+date: '2019-03-13'
+venue: 'Journal of Computer Language'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1045926X18300855'
 citation: 'Zhao W, Jiang H, et al. Knotted-line: A Visual Explorer for Uncertainty in Transportation System[J]. Journal of Visual Language and Computing, 2019(1):1-11.'
 ---
 
