@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 --- 
 
-<img src='/images/emblem.png' width=50px style='width:50px'>
+<img src='/images/emblem.png' style='width:100px'>
 
 I received my Bachelor and Master degree from School of Computer Science, [Southwest University of Science and Technology](http://www.swust.edu.cn/) (Mian'yang, China) in 2019. Now, I am a Ph.D student in School of Computer and Information Science, [Hosei University](http://www.hosei.ac.jp/) (Tokyo, Japan), supervised by Professor [Jianhua Ma](https://scholar.google.com/citations?user=63JHTbMAAAAJ&hl=zh-CN&oi=ao).
 
