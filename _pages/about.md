@@ -10,11 +10,13 @@ redirect_from:
 
 <img src='/images/logo.png'>
 
-I received my bachelor degree from School of Computer Science, [Southwest University of Science and Technology](http://www.swust.edu.cn/) (Mian'yang, China) in 2016. Now, I am a third-year M.S. student in School of Computer Science, Southwest University of Science and Technology (Mian'yang, China), supervised by Professor [Yadong Wu](http://www.cs.swust.edu.cn/staff/p/WuYadong).
+I received my Bachelor and Master degree from School of Computer Science, [Southwest University of Science and Technology](http://www.swust.edu.cn/) (Mian'yang, China) in 2019. Now, I am a Ph.D student in School of Computer and Information Science, Hosei University (Tokyo, Japan), supervised by Professor [Jianhua Ma](https://scholar.google.com/citations?user=63JHTbMAAAAJ&hl=zh-CN&oi=ao).
 
 
 **Education**
 ---
+
+- **2019.9-2022(Expected)**: Hosei University, School of Computer and Information Science, Japan, Ph.D Student.
 
 - **2017.9-2018.2**: EECS, Peking University, China, Visiting Student.
 
@@ -22,8 +24,12 @@ I received my bachelor degree from School of Computer Science, [Southwest Univer
   
 - **2012.9-2016.6**: Southwest University of Science and Technology, China, Bachelors in Information Security.
 
+** Recently Research Interest**
+---
+- Persona Chatbot
+- Dialogue Generation Comprehending
 
-**Research Interest**
+** Pervious Research Interest**
 ---
 - Urban Computing Visualization
 - Visual Analysis and Interaction Design
