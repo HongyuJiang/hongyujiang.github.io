@@ -11,10 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Southwest University of Science and Technology, Information Security, 2012 - 2016
+* Ph.D in Hosei University, Graduate School of Computer and Information Science, 2019 - 2022 (expected)
+* M.S. in Southwest University of Science and Technology, Computer Technology, 2016 - 2019
 * Visiting Student, EECS, Peking University, China, 2017.9 - 2018.2
-* M.S. in Southwest University of Science and Technology, Computer Technology, 2016 - 2019 (expected)
-  
+* B.S. in Southwest University of Science and Technology, Information Security, 2012 - 2016
+
 Skills
 ======
 * Visual Analysis Programming via D3, Plot.ly, Vega and etc.
