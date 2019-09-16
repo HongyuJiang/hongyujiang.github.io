@@ -6,11 +6,11 @@ excerpt: "<img src='/images/knotted_line_teaser.png' width='500px'>"
 date: '2019-03-13'
 venue: 'Journal of Computer Language'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1045926X18300855'
-citation: 'Zhao W, Jiang H, et al. Knotted-line: A Visual Explorer for Uncertainty in Transportation System[J]. Journal of Visual Language and Computing, 2019(1):1-11.'
+citation: 'Zhao W, Jiang H, Tang K, et al. Knotted-line: A Visual explorer for uncertainty in transportation system[J]. <i>Journal of Computer Languages</i>, 2019, 53: 1-8'
 ---
 
-[PDF](http://www.swustvis.cn/media/filer_public/filer_public/db/ec/dbec208b-c913-4ab1-a43d-d2016a0c93d6/z_bus_jvlc__second__1.pdf)
+[PDF](https://www.researchgate.net/publication/331707762_Knotted-line_A_Visual_Explorer_for_Uncertainty_in_Transportation_System)
 
 Recommended citation: 
 
-Pei W, Wu Y, Wang S, et al. Knotted-line: A Visual Explorer for Uncertainty in Transportation System[J]. <i>Journal of Visual Language and Computing</i>, 2019(1):1-11.
+Zhao W, Jiang H, Tang K, et al. Knotted-line: A Visual explorer for uncertainty in transportation system[J]. <i>Journal of Computer Languages</i>, 2019, 53: 1-8.
