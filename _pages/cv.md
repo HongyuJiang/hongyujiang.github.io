@@ -36,7 +36,7 @@ Services
 * A volunteer in Chinavis 2017, Hunan, China.
 * A volunteer in Seminar in Civil-Military Integration 2016, Mianyang, China.
 
-Ladership
+Leadership
 ======
 * 2017-2018, Mianyang, China, SWUST, Co-Chair of CCF student chapter. 
 * 2016-2017, Mianyang, China, SWUST, Chair of ACM student chapter.

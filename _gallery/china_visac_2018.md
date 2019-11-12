@@ -8,5 +8,6 @@ location: "Shanghai, China"
 ---
 
 <img src='/images/china_visac_2018.png'>
+
 [Video](https://onedrive.live.com/?cid=D6EE2D4D8A9E7412&id=D6EE2D4D8A9E7412%2129168&parId=root&o=OneUp)
 This work is published in Chinavis 2018.
