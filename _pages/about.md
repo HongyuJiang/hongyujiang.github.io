@@ -10,8 +10,7 @@ redirect_from:
 
 <img src='/images/emblem.png' style='width:100px'>
 
-I received my Bachelor and Master degree from School of Computer Science, [Southwest University of Science and Technology](http://www.swust.edu.cn/) (Mian'yang, China) in 2019. Now, I am a Ph.D student in Graduate School of Computer and Information Science, [Hosei University](http://www.hosei.ac.jp/) (Tokyo, Japan), supervised by Professor [Jianhua Ma](https://scholar.google.com/citations?user=63JHTbMAAAAJ&hl=zh-CN&oi=ao).
-
+I received my Bachelor's and Master's degree from the School of Computer Science, [Southwest University of Science and Technology](http://www.swust.edu.cn/) (Mianyang, China) in 2016, 2019, respectively. Now, I am a Ph.D. student in the Graduate School of Computer and Information Science, [Hosei University](http://www.hosei.ac.jp/) (Tokyo, Japan), supervised by Professor [Jianhua Ma](https://scholar.google.com/citations?user=63JHTbMAAAAJ&hl=zh-CN&oi=ao).
 
 **Education**
 ---
@@ -24,14 +23,15 @@ I received my Bachelor and Master degree from School of Computer Science, [South
   
 - **2012.9-2016.6**: Southwest University of Science and Technology, China, Bachelors in Information Security.
 
-**Recently Research Interest**
+**Recently Interest**
 ---
 - Personality-aware Intelligence Agent
 
-**Pervious Research Interest**
+**Pervious Interests**
 ---
+- Urban Data Analysis
 - Urban Computing Visualization
-- Visual Analysis and Interaction Design
+- Visual Analysis and UI Design
 
 **Work Interest**
 ---
