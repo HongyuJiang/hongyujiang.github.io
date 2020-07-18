@@ -2,7 +2,7 @@
 title: "Genre-based Emoji Usage Analysis and Prediction inVideo Comments"
 collection: publications
 permalink: /publication/emoji_usage
-excerpt: "<img src='/images/emoji_usage.png' width='500px'>"
+excerpt: "<img src='/images/emoji_usage.png' width='500px'><br>"
 
 date: '2020-08-17'
 venue: '2020 IEEE Intl Conf on Cyber Science and Technology Congress (CyberSciTech)'

@@ -2,7 +2,7 @@
 title: "Latent Patterns Detection and Interpretation in Multi-Layer Temporal Network"
 collection: publications
 permalink: /publication/tensor_vis
-excerpt: "<img src='/images/tensor_vis.png' width='500px'>"
+excerpt: "<img src='/images/tensor_vis.png' width='500px'><br>"
 
 date: '2020-07-17'
 venue: 'IEEE ACCESS'
