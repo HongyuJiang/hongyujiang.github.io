@@ -14,4 +14,4 @@ citation: 'Jiang H, Guo A, Ma J. Genre-based Emoji Usage Analysis and Prediction
 
 Recommended citation: 
 
-Jiang H, Guo A, Ma J. Genre-based Emoji Usage Analysis and Prediction inVideo Comments[J]. <i>2020 IEEE Intl Conf on Cyber Science and Technology Congress (CyberSciTech)</i>, 2020.
+Jiang H, Guo A, Ma J. Genre-based Emoji Usage Analysis and Prediction inVideo Comments[J]. <i>IEEE Intl Conf on Cyber Science and Technology Congress (CyberSciTech)</i>, IEEE, 2020, pp. 296–305.

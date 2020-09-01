@@ -14,4 +14,4 @@ citation: 'Han D, Lu D, Zheng S, et al. Latent Patterns Detection andInterpretat
 
 Recommended citation: 
 
-Han D, Lu D, Zheng S, et al. Latent Patterns Detection andInterpretation in Multi-Layer TemporalNetwork[J]. <i>IEEE ACCESS</i>, Accepted.
+Han D, Lu D, Zheng S, et al. Latent Patterns Detection and Interpretation in Multi-Layer Temporal Network[J]. <i>IEEE Access</i>, 2020, 8: 132786-132798..
