@@ -1,5 +1,5 @@
 ---
-title: "Genre-based Emoji Usage Analysis and Prediction inVideo Comments"
+title: "Genre-based Emoji Usage Analysis and Prediction in Video Comments"
 collection: publications
 permalink: /publication/emoji_usage
 excerpt: "<img src='/images/emoji_usage.png' width='500px'><br>"
