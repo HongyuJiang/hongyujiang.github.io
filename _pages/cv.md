@@ -44,6 +44,7 @@ Leadership
 
 Awards
 ======
+* IEEE Best Student Paper, IEEE Cyber Science and Technology Congress, 2020.
 * Excellent Award, China VISAC(Visualization Art Contest), Chinavis, 2018.
 * Third Award, Data Challenge of Visualization, Chinavis 2017, 2017.
 * CCF Outstanding Undergraduate Award, China Computer Federation,  2016.
@@ -51,4 +52,4 @@ Awards
 * Excellent Award, Data Challenge of Visualization, Chinavis 2016, 2016.
 * Second Award, Data Challenge of Visualization, Chinavis 2015, 2015.
 * ACM Chengdu Chapter Outstanding Undergraduate Award, ACM Chengdu Chapter, 2014.
-* Grand Academic Scholarships. 2016-2018.
+* Grand Academic Scholarships, SWUST, 2016-2018.
