@@ -15,11 +15,11 @@ I received my Bachelor's and Master's degree from the School of Computer Science
 **Education**
 ---
 
-- **2019.9-2022(Expected)**: Hosei University, School of Computer and Information Science, Japan, Ph.D Student.
+- **2018.9-2020.3**: Hosei University, School of Computer and Information Science, Japan, Ph.D Student.
 
 - **2017.9-2018.2**: EECS, Peking University, China, Visiting Student.
 
-- **2016.9-2019.6**: Southwest University of Science and Technology, China, Master in Computer Technology.
+- **2016.9-2018.6**: Southwest University of Science and Technology, China, Master in Computer Technology.
   
 - **2012.9-2016.6**: Southwest University of Science and Technology, China, Bachelors in Information Security.
 
